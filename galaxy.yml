@@ -1,0 +1,16 @@
+namespace:    Pandemonium1986
+name:         openstack
+version:      1.0.0
+readme:       README.md
+authors:
+- Michael Maffait <michael.maffait@gmail.com>
+description:  An ansible collection to quickly create functional instances in openstack
+license:
+- MIT
+license_file: 'LICENSE'
+tags:         [ 'automation', 'openstack', 'system' ]
+dependencies: {}
+repository:   https://github.com/Pandemonium1986/ansible-collection-openstack
+# documentation: http://docs.example.com
+# homepage:   http://example.com
+# issues:     http://example.com/issue/tracker

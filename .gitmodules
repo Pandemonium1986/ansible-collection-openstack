@@ -1,0 +1,9 @@
+[submodule "roles/os_requirements"]
+	path = roles/os_requirements
+	url = https://github.com/Pandemonium1986/ansible-role-os-requirements.git
+[submodule "roles/os_appliances"]
+	path = roles/os_appliances
+	url = https://github.com/Pandemonium1986/ansible-role-os-appliances.git
+[submodule "roles/os_vms"]
+	path = roles/os_vms
+	url = https://github.com/Pandemonium1986/ansible-role-os-vms.git
