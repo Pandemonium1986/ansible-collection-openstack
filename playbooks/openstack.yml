@@ -1,11 +1,9 @@
 ---
-- name :                              Openstack deployement playbook
+- name :                              Openstack deployement for pandama-pic
   hosts:                              local
   become:                             true
-  collections:
-   - pandemonium1986.openstack
   vars:
-    openstack_users:
+    os_users:
       - pandemonium
     openstack_project_name:           "pandama"
     openstack_vms:
