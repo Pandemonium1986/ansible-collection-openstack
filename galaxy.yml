@@ -1,6 +1,6 @@
 namespace:    pandemonium1986
 name:         openstack
-version:      1.0.1
+version:      1.0.2
 readme:       README.md
 authors:
 - Michael Maffait <michael.maffait@gmail.com>
