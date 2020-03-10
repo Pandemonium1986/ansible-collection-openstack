@@ -7,3 +7,6 @@
 [submodule "roles/os_vms"]
 	path = roles/os_vms
 	url = https://github.com/Pandemonium1986/ansible-role-os-vms.git
+[submodule "roles/pip"]
+	path = roles/pip
+	url = https://github.com/Pandemonium1986/ansible-role-pip.git
