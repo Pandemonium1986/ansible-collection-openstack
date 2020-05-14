@@ -43,7 +43,7 @@ Next, you need to create a playbook that may be briefly similar to this one :
   hosts:                                     local
   become:                                    true
   collections:
-   - pandemonium1986.openstack
+    - pandemonium1986.openstack
   vars:
     openstack_users:
       - pandemonium

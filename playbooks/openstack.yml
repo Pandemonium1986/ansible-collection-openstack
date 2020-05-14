@@ -1,9 +1,9 @@
 ---
-- name :                                     Openstack vms instanciation
+- name:                                      Openstack vms instanciation
   hosts:                                     local
   become:                                    true
   collections:
-   - pandemonium1986.openstack
+    - pandemonium1986.openstack
   vars:
     openstack_users:
       - pandemonium
