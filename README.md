@@ -7,6 +7,10 @@
 
 This [Ansible Collection](https://docs.ansible.com/ansible/latest/user_guide/collections_using.html) "openstack" contains roles and playbook to deploy and configured ressources, vms, and requirements to manage a openstack tenant.
 
+## Disclaimer
+
+!!! This images is no longer support.!!!
+
 ## Getting Started
 
 This collection contains the following ressources.
@@ -100,7 +104,7 @@ Each role can be tested independently via molecule.
 
 ## Authors
 
--   **Michael Maffait** - _Initial work_ - [Pandemonium1986](https://github.com/Pandemonium1986)
+- **Michael Maffait** - _Initial work_ - [Pandemonium1986](https://github.com/Pandemonium1986)
 
 ## License
 
